@@ -1,14 +1,6 @@
 --------------------------------------------------------------------------------------
 			Final Project
 --------------------------------------------------------------------------------------
-Group members: 
-
-1. Shubham Horane
-2. Rahil Modi
-3. Manikanda Balaji
-4. Chase Gurcan
-5. Akshay Hole
---------------------------------------------------------------------------------------
 Three videos describing each task of this assignment can be found in the following path:
 /src/turtlebot3_auefinals_pkg/videos
 
@@ -52,32 +44,3 @@ $ roslaunch turtlebot3_auefinals_pkg final_launch.launch
 $ rosrun turtlebot3_auefinals_pkg aue_final.py 
 
 *** - The two videos in the videos folder show the overall functionality of the code. 
-----------------------------------------------------------------------------------------
-
-Work was divided between two sub-groups within our team:
-
-sub-group #1: Shubham Horane & Rahil Modi
-- Stop Sign Detection
-- World setup
-- Line following 
-
-
-sub-group #2: Chase Gurcan, Manikanda Balaji, & Akshay Hole.
-- Leg tracking
-- Wall following and obstacle avoidance 
-- Slam methods (hector and gmapping)
-
-The entire team worked on code integration and final tuning of parameters of the code.
-----------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
